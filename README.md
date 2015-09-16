@@ -1,0 +1,2 @@
+# CourseSelectSystem
+采用java编写的基于客户端服务器风格的选课系统项目
